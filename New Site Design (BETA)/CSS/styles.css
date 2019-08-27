@@ -1,0 +1,15 @@
+.grad1 {
+    background: linear-gradient(to left, rgba(255, 187, 0, 0.911), rgb(255, 27, 27));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.text {
+    color:rgb(73, 237, 243) !important;
+}
+.text:hover { 
+    color: rgb(0, 250, 175) !important; 
+    border-radius: 90%;
+}
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
